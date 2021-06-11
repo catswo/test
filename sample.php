@@ -3,7 +3,9 @@
 class Sample {
 
   public function func1(){
-    echo 'func1';
+    for($i=0;$i<100;$i++){
+      echo 'func1';
+    }
   }
 
   public function func2(){
