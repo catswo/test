@@ -1,5 +1,5 @@
 <?php
-
+// text fix
 class Sample {
 
   public function func1(){
